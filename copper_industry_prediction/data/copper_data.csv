@@ -1,0 +1,6 @@
+id ,item_date,quantity tons,customer,country,status,item type,application ,thickness,width,material_ref,product_ref,delivery date,selling_price
+1,"2021-01-01,100",100,Customer A,USA,lost,type 1,Application 1,0.6,100,ref3,prod 1,07-07-2024,500
+2,"2021-01-02,200",,Customer b,Canada,won,type2,Application 2,0.7,150,ref 2,prod 2,07-07-2024,700
+3,03-01-2021,300,Customer C,uk,won,type 3,Application 3,0.8,200,ref 1,prod 3,07-07-2024,600
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
